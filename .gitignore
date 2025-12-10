@@ -10,3 +10,4 @@ wheels/
 .venv
 **blendcache**
 /blendcache_recording_01
+**.blend1
