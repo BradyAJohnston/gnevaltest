@@ -6,4 +6,6 @@ readme = "README.md"
 requires-python = "~=3.11.0"
 dependencies = [
     "bpy>=5.0.0",
+    "quarto-cli>=1.8.26",
+    "seaborn>=0.13.2",
 ]
